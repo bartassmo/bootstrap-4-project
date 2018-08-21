@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-4-project",
+  "version": "1.0.0",
+  "description": "Project using Bootstrap v4.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartassmo/bootstrap-4-project.git"
+  },
+  "author": "Bartłomiej Smołucha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bartassmo/bootstrap-4-project/issues"
+  },
+  "homepage": "https://github.com/bartassmo/bootstrap-4-project#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.4.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
