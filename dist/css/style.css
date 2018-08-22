@@ -81,6 +81,11 @@
   max-width: 700px;
 }
 
+.my-portfolio-img-group:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
 .separator {
   position: relative;
   overflow: hidden;
