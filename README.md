@@ -11,4 +11,4 @@ Technology stack:
 - Grunt
 - NPM
 
-Live here: `https://bartassmo.github.io/bootstrap-4-project/dist/index.html`
+Live here: https://bartassmo.github.io/bootstrap-4-project/dist/index.html
